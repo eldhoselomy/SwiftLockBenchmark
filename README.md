@@ -22,17 +22,6 @@ This repository provides eight different implementations of a thread-safe cache 
 - Concurrent Queue
 - Read-Write Lock
 
-### Base Protocol
-All implementations conform to this protocol:
-```swift
-protocol Cache: AnyObject {
-    associatedtype Key: Hashable
-    associatedtype Value
-    func get(_ key: Key) -> Value?
-    func set(_ key: Key, value: Value)
-}
-```
-
 ## Performance Analysis
 
 ### Visual Comparison
