@@ -362,18 +362,21 @@ Task {
 ```
 
 
-## Links
-In case you're looking for more in depth info, check those links: 
-https://developer.apple.com/videos/play/wwdc2017/706/
-https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Sources/Foundation/NSCache.swift#L4
-https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Tests/Foundation/TestNSCache.swift
-https://forums.swift.org/t/structured-caching-in-an-actor/65501/20
-https://www.cs.cornell.edu/andru/papers/gallifrey-types/fearless.pdf
+### Links  
+Looking for more in-depth information? Check out these resources:  
 
-## Contributing
-Special thanks to my friend @iMostfa for always coming with interesting questions and ideas to explore! 
+- [WWDC 2017 Session 706: Foundation - Caching](https://developer.apple.com/videos/play/wwdc2017/706/)  
+- [NSCache.swift in swift-corelibs-foundation (Source Code)](https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Sources/Foundation/NSCache.swift#L4)  
+- [TestNSCache.swift in swift-corelibs-foundation (Tests)](https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Tests/Foundation/TestNSCache.swift)  
+- [Discussion on Structured Caching in Actors (Swift Forums)](https://forums.swift.org/t/structured-caching-in-an-actor/65501/20)  
+- [Fearless Concurrency via Gallifrey Types (Research Paper)](https://www.cs.cornell.edu/andru/papers/gallifrey-types/fearless.pdf)  
 
-Feel free to submit issues and enhancement requests!
+---
+
+### Contributing  
+A huge thanks to my friend [@iMostfa](https://github.com/iMostfa) for consistently bringing thought-provoking questions and ideas to the table!  
+
+Got feedback or ideas for improvements? Feel free to open an issue or submit a pull request. Contributions are always welcome!  
 
 ### Running Tests
 ```bash
