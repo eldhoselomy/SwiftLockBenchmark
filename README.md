@@ -361,7 +361,17 @@ Task {
 }
 ```
 
+
+## Links
+In case you're looking for more in depth info, check those links: 
+https://developer.apple.com/videos/play/wwdc2017/706/
+https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Sources/Foundation/NSCache.swift#L4
+https://github.com/swiftlang/swift-corelibs-foundation/blob/c28bf23e18e217709dddd5c2c1b3ee1f2a4151cb/Tests/Foundation/TestNSCache.swift
+https://forums.swift.org/t/structured-caching-in-an-actor/65501/20
+https://www.cs.cornell.edu/andru/papers/gallifrey-types/fearless.pdf
+
 ## Contributing
+Special thanks to my friend @iMostfa for always coming with interesting questions and ideas to explore! 
 
 Feel free to submit issues and enhancement requests!
 
