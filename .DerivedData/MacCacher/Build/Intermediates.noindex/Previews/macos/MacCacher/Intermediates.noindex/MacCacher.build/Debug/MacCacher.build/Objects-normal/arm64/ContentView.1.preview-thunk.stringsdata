@@ -1,0 +1,20 @@
+{
+  "source": "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Item at %@"
+      },
+      {
+        "comment": "",
+        "key": "Add Item"
+      },
+      {
+        "comment": "",
+        "key": "Select an item"
+      }
+    ]
+  },
+  "version": 1
+}

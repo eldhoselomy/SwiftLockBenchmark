@@ -15,6 +15,11 @@
 		9310DBBF2CEE553900FC6037 /* MacCacherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBBE2CEE553900FC6037 /* MacCacherTests.swift */; };
 		9310DBC92CEE553900FC6037 /* MacCacherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBC82CEE553900FC6037 /* MacCacherUITests.swift */; };
 		9310DBCB2CEE553900FC6037 /* MacCacherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBCA2CEE553900FC6037 /* MacCacherUITestsLaunchTests.swift */; };
+		9310DBD82CEE555900FC6037 /* CacheTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBD72CEE555900FC6037 /* CacheTests.swift */; };
+		9310DBDA2CEE557C00FC6037 /* Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBD92CEE557C00FC6037 /* Cache.swift */; };
+		9310DBDC2CEE55B000FC6037 /* CachePerformanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9310DBDB2CEE55B000FC6037 /* CachePerformanceTests.swift */; };
+		93281E1E2CEE7B5F00CBCFD7 /* PerformanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93281E1D2CEE7B5F00CBCFD7 /* PerformanceTests.swift */; };
+		93281E202CEE80E300CBCFD7 /* MorePerformanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93281E1F2CEE80E300CBCFD7 /* MorePerformanceTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +52,11 @@
 		9310DBC42CEE553900FC6037 /* MacCacherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MacCacherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9310DBC82CEE553900FC6037 /* MacCacherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacCacherUITests.swift; sourceTree = "<group>"; };
 		9310DBCA2CEE553900FC6037 /* MacCacherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacCacherUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9310DBD72CEE555900FC6037 /* CacheTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheTests.swift; sourceTree = "<group>"; };
+		9310DBD92CEE557C00FC6037 /* Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cache.swift; sourceTree = "<group>"; };
+		9310DBDB2CEE55B000FC6037 /* CachePerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachePerformanceTests.swift; sourceTree = "<group>"; };
+		93281E1D2CEE7B5F00CBCFD7 /* PerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceTests.swift; sourceTree = "<group>"; };
+		93281E1F2CEE80E300CBCFD7 /* MorePerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorePerformanceTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +110,7 @@
 				9310DBAA2CEE553800FC6037 /* MacCacherApp.swift */,
 				9310DBAC2CEE553800FC6037 /* ContentView.swift */,
 				9310DBAE2CEE553800FC6037 /* Item.swift */,
+				9310DBD92CEE557C00FC6037 /* Cache.swift */,
 				9310DBB02CEE553900FC6037 /* Assets.xcassets */,
 				9310DBB52CEE553900FC6037 /* MacCacher.entitlements */,
 				9310DBB22CEE553900FC6037 /* Preview Content */,
@@ -119,6 +130,10 @@
 			isa = PBXGroup;
 			children = (
 				9310DBBE2CEE553900FC6037 /* MacCacherTests.swift */,
+				9310DBD72CEE555900FC6037 /* CacheTests.swift */,
+				93281E1D2CEE7B5F00CBCFD7 /* PerformanceTests.swift */,
+				93281E1F2CEE80E300CBCFD7 /* MorePerformanceTests.swift */,
+				9310DBDB2CEE55B000FC6037 /* CachePerformanceTests.swift */,
 			);
 			path = MacCacherTests;
 			sourceTree = "<group>";
@@ -263,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9310DBAD2CEE553800FC6037 /* ContentView.swift in Sources */,
+				9310DBDA2CEE557C00FC6037 /* Cache.swift in Sources */,
 				9310DBAF2CEE553800FC6037 /* Item.swift in Sources */,
 				9310DBAB2CEE553800FC6037 /* MacCacherApp.swift in Sources */,
 			);
@@ -272,6 +288,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93281E202CEE80E300CBCFD7 /* MorePerformanceTests.swift in Sources */,
+				9310DBDC2CEE55B000FC6037 /* CachePerformanceTests.swift in Sources */,
+				9310DBD82CEE555900FC6037 /* CacheTests.swift in Sources */,
+				93281E1E2CEE7B5F00CBCFD7 /* PerformanceTests.swift in Sources */,
 				9310DBBF2CEE553900FC6037 /* MacCacherTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacher-master.dia",
+    "emit-module-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacher-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacher-master-emit-module.dia",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacher-master.swiftdeps"
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/ContentView.swift" : {
+    "const-values" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/Item.swift" : {
+    "const-values" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/MacCacherApp.swift" : {
+    "const-values" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.swiftconstvalues",
+    "dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.d",
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.dia",
+    "index-unit-output-path" : "/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.o",
+    "llvm-bc" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.bc",
+    "object" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.o",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp.swiftdeps",
+    "swiftmodule" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/Objects-normal/arm64/MacCacherApp~partial.swiftmodule"
+  }
+}

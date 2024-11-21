@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacherTests.build/Objects-normal/arm64/MacCacherTests-master.d",
+    "diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacherTests.build/Objects-normal/arm64/MacCacherTests-master.dia",
+    "emit-module-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacherTests.build/Objects-normal/arm64/MacCacherTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacherTests.build/Objects-normal/arm64/MacCacherTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacherTests.build/Objects-normal/arm64/MacCacherTests-master.swiftdeps"
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacherTests/CachePerformanceTests.swift" : {
+
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacherTests/CacheTests.swift" : {
+
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacherTests/MacCacherTests.swift" : {
+
+  },
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacherTests/PerformanceTests.swift" : {
+
+  }
+}

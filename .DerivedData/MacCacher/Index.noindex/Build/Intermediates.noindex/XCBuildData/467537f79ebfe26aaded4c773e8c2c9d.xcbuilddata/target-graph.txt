@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'MacCacherUITests' in project 'MacCacher'
+➜ Explicit dependency on target 'MacCacher' in project 'MacCacher'
+Target 'MacCacherTests' in project 'MacCacher'
+➜ Explicit dependency on target 'MacCacher' in project 'MacCacher'
+Target 'MacCacher' in project 'MacCacher' (no dependencies)

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "63ae178f24c9e13dffdef356d885554c18ce5fec825b416a3ca772d6c5491852"
+build_start_time: [1732137006, 162210000]
+build_end_time: [1732137006, 430033000]
+inputs:
+  ? "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/Build/Intermediates.noindex/MacCacher.build/Debug/MacCacher.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1732124092, 479323793]
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/Cache.swift": [1732137006, 118578276]
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/ContentView.swift": [1732124088, 348114318]
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/Item.swift": [1732124088, 349513568]
+  "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher/MacCacherApp.swift": [1732124088, 344537486]

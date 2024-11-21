@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "175c3a6e3a729d6faeceb24dc1be03867f514e4a943fd2838eac4b1966271c03"
+    }
+  ],
+  "containerPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/MacCacher.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Products",
+      "derivedDataPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData",
+      "indexDataStoreFolderPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/ProfileData",
+          "DSTROOT" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/abdoelrahman.eaita/Developer/Side/MacCacher/.DerivedData/MacCacher/Build/Intermediates.noindex/Previews/macos/MacCacher/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
