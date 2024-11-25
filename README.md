@@ -2,6 +2,10 @@
 
 A comprehensive comparison of different thread-safe cache implementations in Swift, analyzing performance characteristics across various synchronization approaches.
 
+[Abdoelrahman EaitaView's Post](https://www.linkedin.com/posts/abdulrhmaneaita_advanced-swift-concurrency-dont-use-actors-activity-7265365140445741058-UVOn?utm_source=share&utm_medium=member_desktop)
+
+[Jacob's Post](https://www.linkedin.com/posts/jacobmartinbartlett_advanced-swift-concurrency-dont-use-actors-activity-7259232958207660032-mL6a?utm_source=share&utm_medium=member_desktop)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Performance Analysis](#performance-analysis)
